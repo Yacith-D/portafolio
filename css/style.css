@@ -24,7 +24,7 @@ font-size: 26px;
 .div1{
 display: grid;
 grid-template-columns: 100%;
-background-image: url("/portafolio/img/montañaelite.jpeg");
+background-image: url("/img/montañaelite.jpeg");
 background-size: cover;
 height: 800px;
 
@@ -41,7 +41,7 @@ border-radius: 500px;
 }
 
 #texto{
-margin-left: 700px;
+margin-left: 600px;
 margin-top: -200px;
 font-size: 30px;
 color: rgb(255, 255, 255);

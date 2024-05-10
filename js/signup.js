@@ -17,8 +17,7 @@ signupForm.addEventListener('submit', (e)=>{
     window.location.href = 'login.html'
 
 })
-
-
+//apuntar la funcionalidad
 
 
 
