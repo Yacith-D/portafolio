@@ -24,7 +24,7 @@ font-size: 26px;
 .div1{
 display: grid;
 grid-template-columns: 100%;
-background-image: url("/img/montañaelite.jpeg");
+background-image: url("/portafolio/img/elitearbol.png");
 background-size: cover;
 height: 800px;
 
