@@ -56,10 +56,9 @@ font-style: oblique;
 }
 
 
-#stilo{
+#stilo{ 
 color: rgb(255, 255, 255);
-
-
+margin-left: 20px;
 }
 
 #close{
