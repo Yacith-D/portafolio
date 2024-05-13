@@ -5,7 +5,7 @@ btn2 = document.getElementById("btn2")
 btn2.addEventListener("click", function () {
     compaInfo.innerHTML = inputCompa.value
     
-
+    
 })
 
 let inputCompa1 = document.getElementById("inputraba")
